@@ -9,7 +9,7 @@ To use this project:
 
 ->  "Classifer_model.py" is the module which consist of the working and algorthim of the model.
 
-->  "Implemento.ipynb" is how we gona use the saved model for the classification.
+->  "Implemento.ipynb" is how we gonna use the saved model for the classification.
 
 ->  "DATASET" it is the folder where you to give the trainig image of the class.
 
