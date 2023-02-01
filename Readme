@@ -1,0 +1,23 @@
+This is multiclass classification model to classify more than one class.
+
+To use this project:
+-> "DOWNLOAD" dataset from : https://drive.google.com/drive/folders/1cSvL6ycXljhFF8-9knzXaNL-U2LwUFcI?usp=sharing
+
+->  Put the DATASET folder in the program folder where you are running it from.
+
+->  "classifer.ipynb" is the part where data cleaning and feature selection is done
+
+->  "Classifer_model.py" is the module which consist of the working and algorthim of the model.
+
+->  "Implemento.ipynb" is how we gona use the saved model for the classification.
+
+->  "DATASET" it is the folder where you to give the trainig image of the class.
+
+->  NOTE: The class which you are declaring inside the program class name if DATASET folder should be the same.
+
+->  ODER of running this program:
+    =>Classifier.ipynb
+    =>classifer_model.py
+    =>implementor.ipynb
+
+THANK YOU for visting this repository.
