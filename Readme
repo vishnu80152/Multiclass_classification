@@ -11,11 +11,11 @@ To use this project:
 
 ->  "Implemento.ipynb" is how we gonna use the saved model for the classification.
 
-->  "DATASET" it is the folder where you to give the trainig image of the class.
+->  "DATASET" it is the folder where you to give the training image of the class.
 
-->  NOTE: The class which you are declaring inside the program class name if DATASET folder should be the same.
+->  NOTE: The class which you are declaring inside the program must have same name as the it is defined in the DATASET.
 
-->  ODER of running this program:
+->  ORDER of running this program:
     =>Classifier.ipynb
     =>classifer_model.py
     =>implementor.ipynb
